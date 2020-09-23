@@ -1,0 +1,4 @@
+Miután klónozta a tanári repository-t, hajtsa végre a következőket!
+
+1) Készítsen egy képet mspaint segítségével, amit mentsen a feladat WorkSpace-be a saját nevével (ékezet nélkül)!
+2) Ezek után GIT PUSH segítségével tolja fel a távoli repoba! Ha nem megy (pld. megelőzték mások), akkor PULL kell előbb és utána PUSH.
